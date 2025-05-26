@@ -1,7 +1,7 @@
 # LAB-5-Student-registration-system
-# NAME : HARIPRASATH S
-# REGISTER NUMBER : 212222240034
-# DATE : 
+# NAME : SWETHA R
+# REGISTER NUMBER : 212223040221
+
 ### AIM:
 To develop a project Student Registration System using Rational Rose Software and to
 implement the software in Java.
